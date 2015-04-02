@@ -1,6 +1,6 @@
 # Cabinet Issue Tracker
 
-![Screenshots](https://raw.githubusercontent.com/afollestad/cabinet-issue-tracker/master/art/cabinet.png)
+![Screenshots](https://raw.githubusercontent.com/afollestad/cabinet-issue-tracker/master/art/cabinet1.png)
 
 Welcome, this repository is a public version of Cabinet for Android, existing specifically to allow you guys to report bugs and request features.
 
